@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "лаба13-2.0/1.0.0": {
+        "dependencies": {
+          "10lablib": "1.0.0"
+        },
+        "runtime": {
+          "лаба13-2.0.dll": {}
+        }
+      },
+      "10lablib/1.0.0": {
+        "runtime": {
+          "10lablib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "лаба13-2.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "10lablib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
